@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "ele:lib"
+
+    - path: "./test"
+      component: "ele:test:ele-test"
